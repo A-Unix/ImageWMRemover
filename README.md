@@ -8,7 +8,7 @@ Unauthorized removal of watermark logos from images using this script may give r
 
 ### Clone the repo
 ```bash
-git clone https://github.com/Atuls-git/ImageWMRemover.git
+git clone https://github.com/A-Unix/ImageWMRemover.git
 ```
 ### Move to cloned folder
 ```bash
